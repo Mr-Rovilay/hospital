@@ -10,7 +10,7 @@ import { Form } from "@/components/ui/form";
 
 
 import "react-phone-number-input/style.css";
-import CustomFormField from "../CustomFormField";
+import CustomFormField, { FormFieldType } from "../CustomFormField";
 import SubmitButton from "../SubmitButton";
 import { UserFormValidation } from "@/lib/validation";
 
